@@ -1,0 +1,262 @@
+TXMLReader1
+v7
+r0
+t319514215.215625
+cCheck dependencies
+cProcessInfoPlistFile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/Info.plist XMLReader1-Info.plist
+cCompileXIB /Users/helder/Applications/XMLReader1/MainWindow.xib
+cCompileXIB /Users/helder/Applications/XMLReader1/RootViewController.xib
+cProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch.gch XMLReader1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/main.o /Users/helder/Applications/XMLReader1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1AppDelegate.o /Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/RootViewController.o /Users/helder/Applications/XMLReader1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1 normal i386
+cGenerateDSYMFile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app.dSYM /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1
+cTouch /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/helder/Applications/XMLReader1/Classes/RootViewController.h
+c000000004D5B2ED000000000000000ED
+t1297821392
+s237
+i<UIKit/UIKit.h>
+
+N/Users/helder/Applications/XMLReader1/Classes/RootViewController.m
+c000000004D5B2ED000000000000010C5
+t1297821392
+s4293
+i"RootViewController.h"
+
+N/Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.h
+c000000004D5B2ED000000000000001DB
+t1297821392
+s475
+i<UIKit/UIKit.h>
+
+N/Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m
+c000000004D5B2ED00000000000000AB2
+t1297821392
+s2738
+i"XMLReader1AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/helder/Applications/XMLReader1/MainWindow.xib
+c000000004D5B2ED00000000000006000
+t1297821392
+s24576
+
+N/Users/helder/Applications/XMLReader1/RootViewController.xib
+c000000004D5B2ED00000000000004455
+t1297821392
+s17493
+
+N/Users/helder/Applications/XMLReader1/XMLReader1_Prefix.pch
+c000000004D5B2ED00000000000000146
+t1297821392
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app
+t1297821415
+s238
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app.dSYM
+t1297821415
+s102
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/Info.plist
+t1297821410
+s603
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/MainWindow.nib
+t1297821411
+s1512
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/PkgInfo
+t1297821410
+s8
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/RootViewController.nib
+t1297821411
+s979
+
+N/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1
+t1297821415
+s18104
+
+N/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/RootViewController.o
+t1297821414
+s41160
+
+N/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1.LinkFileList
+c000000004D5B2EE2000000000000019C
+t1297821410
+s412
+
+N/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1AppDelegate.o
+t1297821414
+s52764
+
+N/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/main.o
+t1297821414
+s6300
+
+N/Users/helder/Applications/XMLReader1/main.m
+c000000004D5B2ED0000000000000016B
+t1297821392
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch.gch
+t1297821413
+s15453392
+
+NXMLReader1-Info.plist
+c000000004D5B2ED0000000000000038D
+t1297821392
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319514210#319514210#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/RootViewController.o /Users/helder/Applications/XMLReader1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514214.484097
+e319514214.559070
+r1
+xCompileC
+xbuild/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/RootViewController.o
+x/Users/helder/Applications/XMLReader1/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/helder/Applications/XMLReader1/Classes/RootViewController.m319514214#319514214#0(0"0(0#0#66"/Users/helder/Applications/XMLReader1/Classes/RootViewController.m8606766144#1999"    cd /Users/helder/Applications/XMLReader1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-generated-files.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-own-target-headers.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-all-target-headers.hmap -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-project-headers.hmap -F/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -I/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/include -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources/i386 -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch -c /Users/helder/Applications/XMLReader1/Classes/RootViewController.m -o /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1AppDelegate.o /Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514214.281085
+e319514214.510034
+r1
+xCompileC
+xbuild/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1AppDelegate.o
+x/Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m319514214#319514214#0(0"0(0#0#69"/Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m8607395264#2005"    cd /Users/helder/Applications/XMLReader1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-generated-files.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-own-target-headers.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-all-target-headers.hmap -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-project-headers.hmap -F/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -I/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/include -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources/i386 -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch -c /Users/helder/Applications/XMLReader1/Classes/XMLReader1AppDelegate.m -o /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1AppDelegate.o0#
+
+CCompileC build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/main.o /Users/helder/Applications/XMLReader1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514214.279254
+e319514214.483978
+r1
+xCompileC
+xbuild/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/main.o
+x/Users/helder/Applications/XMLReader1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/helder/Applications/XMLReader1/main.m319514214#319514214#0(0"0(0#0#44"/Users/helder/Applications/XMLReader1/main.m8607845536#1963"    cd /Users/helder/Applications/XMLReader1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-generated-files.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-own-target-headers.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-all-target-headers.hmap -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-project-headers.hmap -F/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -I/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/include -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources/i386 -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch -c /Users/helder/Applications/XMLReader1/main.m -o /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/helder/Applications/XMLReader1/MainWindow.xib
+s319514210.959217
+e319514211.623416
+r1
+xCompileXIB
+x/Users/helder/Applications/XMLReader1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319514210#319514211#0(0"0(0#0#52"/Users/helder/Applications/XMLReader1/MainWindow.xib8603907744#570"    cd /Users/helder/Applications/XMLReader1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/MainWindow.nib /Users/helder/Applications/XMLReader1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/helder/Applications/XMLReader1/RootViewController.xib
+s319514210.969852
+e319514211.623731
+r1
+xCompileXIB
+x/Users/helder/Applications/XMLReader1/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib319514210#319514211#0(0"0(0#0#60"/Users/helder/Applications/XMLReader1/RootViewController.xib8601787616#586"    cd /Users/helder/Applications/XMLReader1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/RootViewController.nib /Users/helder/Applications/XMLReader1/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app.dSYM /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1
+s319514215.085697
+e319514215.210249
+r1
+xGenerateDSYMFile
+x/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app.dSYM
+x/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/XMLReader1.app.dSYM build/Debug-iphonesimulator/XMLReader1.app/XMLReader1319514215#319514215#0(0"0(0#0#91"/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader18603652192#389"    cd /Users/helder/Applications/XMLReader1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1 -o /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app.dSYM0#
+
+CLd /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1 normal i386
+s319514214.559166
+e319514215.085560
+r1
+xLd
+x/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1
+xnormal
+xi386
+lSLF07#2@96"Link /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader1319514214#319514215#0(0"0(0#0#0"8605478240#910"    cd /Users/helder/Applications/XMLReader1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -F/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -filelist /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/Objects-normal/i386/XMLReader1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/XMLReader10#
+
+CProcessInfoPlistFile /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/Info.plist XMLReader1-Info.plist
+s319514210.911989
+e319514210.959097
+r1
+xProcessInfoPlistFile
+x/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/Info.plist
+xXMLReader1-Info.plist
+lSLF07#2@29"Process XMLReader1-Info.plist319514210#319514210#0(0"0(0#0#59"/Users/helder/Applications/XMLReader1/XMLReader1-Info.plist30962724186357872#485"    cd /Users/helder/Applications/XMLReader1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility XMLReader1-Info.plist -genpkginfo /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app/Info.plist0#
+
+CProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch.gch XMLReader1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514211.623904
+e319514214.278956
+r1
+xProcessPCH
+x/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch.gch
+xXMLReader1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile XMLReader1_Prefix.pch319514211#319514214#0(0"0(0#0#59"/Users/helder/Applications/XMLReader1/XMLReader1_Prefix.pch8607173728#1853"    cd /Users/helder/Applications/XMLReader1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-generated-files.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-own-target-headers.hmap -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-all-target-headers.hmap -iquote /Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/XMLReader1-project-headers.hmap -F/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator -I/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/include -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources/i386 -I/Users/helder/Applications/XMLReader1/build/XMLReader1.build/Debug-iphonesimulator/XMLReader1.build/DerivedSources -c /Users/helder/Applications/XMLReader1/XMLReader1_Prefix.pch -o /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XMLReader1_Prefix-fmhijcxyzjgbebeggttrtzfbrmzt/XMLReader1_Prefix.pch.gch0#
+
+CTouch /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app
+s319514215.210373
+e319514215.215564
+r1
+xTouch
+x/Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app
+lSLF07#2@86"Touch /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app319514215#319514215#0(0"0(0#0#0"8604252416#279"    cd /Users/helder/Applications/XMLReader1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/helder/Applications/XMLReader1/build/Debug-iphonesimulator/XMLReader1.app0#
+

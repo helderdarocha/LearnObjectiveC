@@ -1,0 +1,11 @@
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:14: error: no declaration of property 'name' found in the interface
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:15: error: no declaration of property 'satelites' found in the interface
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:16: error: no declaration of property 'aphelion' found in the interface
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:17: error: no declaration of property 'perihelion' found in the interface
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m: In function '-[OrbitingBody initWithName:]':
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:21: error: request for member 'name' in something not a structure or union
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m: In function '-[OrbitingBody dealloc]':
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:28: error: 'name' undeclared (first use in this function)
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:28: error: (Each undeclared identifier is reported only once
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:28: error: for each function it appears in.)
+/Users/helder/Applications/XMLReader1/Classes/OrbitingBody.m:29: error: 'satelites' undeclared (first use in this function)

@@ -1,0 +1,179 @@
+TShadows
+v7
+r0
+t319752086.512654
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch.gch Shadows_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows normal i386
+cTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/English.lproj/InfoPlist.strings
+c0000000048DF0474000000000000005C
+t1222575220
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/English.lproj/MainMenu.xib
+c0000000048DF059C00000000000200F7
+t1222575516
+s131319
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.h
+c0000000048DF05AF00000000000000FD
+t1222575535
+s253
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m
+c0000000048DF07C000000000000003A4
+t1222576064
+s932
+i"MyQuartzView.h"
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/Shadows_Prefix.pch
+c0000000048DF04740000000000000091
+t1222575220
+s145
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app
+t1298059286
+s102
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Info.plist
+t1222575535
+s769
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows
+t1298059286
+s14836
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/PkgInfo
+t1222575535
+s8
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1222575535
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Resources/English.lproj/MainMenu.nib
+t1222575536
+s26829
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/MyQuartzView.o
+t1298059286
+s15800
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/Shadows.LinkFileList
+c000000004D5ED00D00000000000000FC
+t1298059277
+s252
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/main.o
+t1298059286
+s4888
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m
+c0000000048DF047400000000000000F9
+t1222575220
+s249
+i<Cocoa/Cocoa.h>
+
+N/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch.gch
+t1298059286
+s54071728
+
+NInfo.plist
+c0000000048DF04740000000000000357
+t1222575220
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319752077#319752077#0(0"0(0#1#0"8611881472#0"0#
+
+CCompileC build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752086.271387
+e319752086.480557
+r1
+xCompileC
+xbuild/Shadows.build/Debug/Shadows.build/Objects-normal/i386/MyQuartzView.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m319752086#319752086#0(0"0(0#0#69"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m8602963136#1634"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/MyQuartzView.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/MyQuartzView.o0#
+
+CCompileC build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752086.270230
+e319752086.461307
+r1
+xCompileC
+xbuild/Shadows.build/Debug/Shadows.build/Objects-normal/i386/main.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m319752086#319752086#0(0"0(0#0#61"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m8622552032#1618"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/main.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows normal i386
+s319752086.480665
+e319752086.509541
+r1
+xLd
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows
+xnormal
+xi386
+lSLF07#2@106"Link /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows319752086#319752086#0(0"0(0#0#0"8629667776#618"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug -filelist /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Objects-normal/i386/Shadows.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/MacOS/Shadows0#
+
+CProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app/Contents/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch.gch Shadows_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752077.617037
+e319752086.270005
+r1
+xProcessPCH
+x/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch.gch
+xShadows_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Shadows_Prefix.pch319752077#319752086#0(0"0(0#0#73"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/Shadows_Prefix.pch8634844192#1510"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/Shadows-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Shadows.build/Debug/Shadows.build/DerivedSources -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/Shadows_Prefix.pch -o /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shadows_Prefix-hakzgfqlnnpislfmglkzwnpaagmb/Shadows_Prefix.pch.gch0#
+
+CTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app
+s319752086.509665
+e319752086.512611
+r1
+xTouch
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app
+lSLF07#2@84"Touch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app319752086#319752086#0(0"0(0#0#0"8607370848#163"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows    /usr/bin/touch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Shadows/build/Debug/Shadows.app0#
+

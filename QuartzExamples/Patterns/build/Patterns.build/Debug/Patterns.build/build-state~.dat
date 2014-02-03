@@ -1,0 +1,179 @@
+TPatterns
+v7
+r0
+t319752049.156250
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch.gch Patterns_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns normal i386
+cTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/English.lproj/InfoPlist.strings
+c0000000048DDD108000000000000005C
+t1222496520
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/English.lproj/MainMenu.xib
+c0000000048DE433200000000000200F8
+t1222525746
+s131320
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.h
+c0000000048DE440C0000000000000152
+t1222525964
+s338
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m
+c0000000048DF082F00000000000010BF
+t1222576175
+s4287
+i"MyQuartzView.h"
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/Patterns_Prefix.pch
+c0000000048DDD1080000000000000093
+t1222496520
+s147
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app
+t1298059249
+s102
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Info.plist
+t1222525627
+s772
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns
+t1298059249
+s20880
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/PkgInfo
+t1222525627
+s8
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1222525628
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Resources/English.lproj/MainMenu.nib
+t1222525761
+s26845
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/MyQuartzView.o
+t1298059249
+s23612
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/Patterns.LinkFileList
+c000000004D5ECFE70000000000000102
+t1298059239
+s258
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/main.o
+t1298059249
+s4888
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m
+c0000000048DDD10800000000000000FA
+t1222496520
+s250
+i<Cocoa/Cocoa.h>
+
+N/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch.gch
+t1298059248
+s54071728
+
+NInfo.plist
+c0000000048DDD1080000000000000357
+t1222496520
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319752039#319752039#0(0"0(0#1#0"8640735520#0"0#
+
+CCompileC build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752048.906033
+e319752049.123544
+r1
+xCompileC
+xbuild/Patterns.build/Debug/Patterns.build/Objects-normal/i386/MyQuartzView.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m319752048#319752049#0(0"0(0#0#70"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m8600316800#1665"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/MyQuartzView.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/MyQuartzView.o0#
+
+CCompileC build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752048.904928
+e319752049.086866
+r1
+xCompileC
+xbuild/Patterns.build/Debug/Patterns.build/Objects-normal/i386/main.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m319752048#319752049#0(0"0(0#0#62"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m8609372608#1649"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/main.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns normal i386
+s319752049.123657
+e319752049.153146
+r1
+xLd
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns
+xnormal
+xi386
+lSLF07#2@109"Link /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns319752049#319752049#0(0"0(0#0#0"8611567872#628"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug -filelist /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Objects-normal/i386/Patterns.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/MacOS/Patterns0#
+
+CProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app/Contents/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch.gch Patterns_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752039.912996
+e319752048.904759
+r1
+xProcessPCH
+x/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch.gch
+xPatterns_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Patterns_Prefix.pch319752039#319752048#0(0"0(0#0#75"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/Patterns_Prefix.pch8640808736#1539"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/Patterns-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Patterns.build/Debug/Patterns.build/DerivedSources -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/Patterns_Prefix.pch -o /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Patterns_Prefix-dubixqreovsupwdqzzqnqazpgwip/Patterns_Prefix.pch.gch0#
+
+CTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app
+s319752049.153270
+e319752049.156212
+r1
+xTouch
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app
+lSLF07#2@86"Touch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app319752049#319752049#0(0"0(0#0#0"8654487584#166"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns    /usr/bin/touch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/Patterns/build/Debug/Patterns.app0#
+

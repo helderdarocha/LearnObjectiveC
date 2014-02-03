@@ -1,0 +1,189 @@
+TQuartzBlendModes
+v7
+r0
+t319752140.195325
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch.gch QuartzBlendModes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes normal i386
+cTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004AD870D6000000000000A5F0
+t1255698646
+s42480
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CD5CE980000000000D00CA0
+t1289080472
+s13634720
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/English.lproj/InfoPlist.strings
+c0000000048D968F6000000000000005C
+t1222207734
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/English.lproj/MainMenu.xib
+c0000000048D9D1460000000000024E8E
+t1222234438
+s151182
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.h
+c0000000048D9AD1B00000000000002B0
+t1222225179
+s688
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m
+c0000000048D9D3B80000000000001387
+t1222235064
+s4999
+i"MyQuartzView.h"
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/QuartzBlendModes_Prefix.pch
+c0000000048D968F600000000000000A3
+t1222207734
+s163
+i<Cocoa/Cocoa.h>
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app
+t1298059340
+s102
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Info.plist
+t1222213471
+s796
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes
+t1298059340
+s21324
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/PkgInfo
+t1222213471
+s8
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1222213472
+s92
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Resources/English.lproj/MainMenu.nib
+t1222234438
+s32428
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/MyQuartzView.o
+t1298059340
+s27784
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/QuartzBlendModes.LinkFileList
+c000000004D5ED0400000000000000132
+t1298059328
+s306
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/main.o
+t1298059340
+s4904
+
+N/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m
+c0000000048D968F60000000000000102
+t1222207734
+s258
+i<Cocoa/Cocoa.h>
+
+N/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch.gch
+t1298059339
+s54071728
+
+NInfo.plist
+c0000000048D968F60000000000000357
+t1222207734
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319752128#319752128#0(0"0(0#1#0"8602851008#0"0#
+
+CCompileC build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/MyQuartzView.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752139.839960
+e319752140.075695
+r1
+xCompileC
+xbuild/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/MyQuartzView.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m319752139#319752140#0(0"0(0#0#78"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m8635138848#1913"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/MyQuartzView.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/MyQuartzView.o0#
+
+CCompileC build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/main.o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752139.837992
+e319752140.032240
+r1
+xCompileC
+xbuild/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/main.o
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m319752139#319752140#0(0"0(0#0#70"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m8638120672#1897"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources -include /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/main.m -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes normal i386
+s319752140.075821
+e319752140.192226
+r1
+xLd
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes
+xnormal
+xi386
+lSLF07#2@133"Link /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes319752140#319752140#0(0"0(0#0#0"8641412416#748"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug -filelist /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/Objects-normal/i386/QuartzBlendModes.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Quartz -framework QuartzCore -o /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/MacOS/QuartzBlendModes0#
+
+CProcessInfoPlistFile /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app/Contents/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch.gch QuartzBlendModes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319752128.795360
+e319752139.837692
+r1
+xProcessPCH
+x/var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch.gch
+xQuartzBlendModes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile QuartzBlendModes_Prefix.pch319752128#319752139#0(0"0(0#0#91"/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/QuartzBlendModes_Prefix.pch8624875968#1771"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-generated-files.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-own-target-headers.hmap -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-all-target-headers.hmap -iquote /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/QuartzBlendModes-project-headers.hmap -F/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/include -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources/i386 -I/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/QuartzBlendModes.build/Debug/QuartzBlendModes.build/DerivedSources -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/QuartzBlendModes_Prefix.pch -o /var/folders/TQ/TQRF54d1EBatU5QcUm7cTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuartzBlendModes_Prefix-akbownpcgpwihmczysweviblwddj/QuartzBlendModes_Prefix.pch.gch0#
+
+CTouch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app
+s319752140.192333
+e319752140.195286
+r1
+xTouch
+x/Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app
+lSLF07#2@102"Touch /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app319752140#319752140#0(0"0(0#0#0"8640482432#190"    cd /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes    /usr/bin/touch -c /Volumes/ExtHD/Code/ObjectiveC/Learning/Quartz/QuartzBlendModes/build/Debug/QuartzBlendModes.app0#
+
